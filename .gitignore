@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Django
+*.sqlite3
+db.sqlite3
+*.pot
+*.pyc
+
+# PyCharm
+.idea/
+
+# Операционная система
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
